@@ -121,7 +121,7 @@ entry_points = {}
 
 setup(
     name = "django-hallo-markdown",
-    version = "0.1",
+    version = "0.1.1",
     packages = find_packages(),
     install_requires = required,
     url = 'http://github.com/StefanKjartansson/django-hallo-markdown/',
